@@ -12,3 +12,6 @@ The course covers basic algorithmic techniques and ideas for computational probl
 Git Clone git init
 git status
 git config --global user.name "sushantsp"
+git log
+git push --> act of pushing to the github
+git pull -->act of pulling from the github
