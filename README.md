@@ -7,3 +7,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 3) Software Testing
 4) Algorithms
 5) Computer Programming
+
+
+Git Clone git init
+git status
