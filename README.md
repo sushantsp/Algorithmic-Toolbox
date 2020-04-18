@@ -11,3 +11,4 @@ The course covers basic algorithmic techniques and ideas for computational probl
 
 Git Clone git init
 git status
+git config --global user.name "sushantsp"
